@@ -17,15 +17,3 @@ def  DFA_divided(Bin_Str):
       return "Accepted"
    else:
       return "Rejected"   
-   
-   
-print(DFA_divided("1101"))
-print(DFA_divided("1001"))
-print(DFA_divided("1011"))
-print(DFA_divided("0001"))
-print(DFA_divided("1000"))
-print(DFA_divided("110010010101"))
-print(DFA_divided("11000000000000001111"))
-print(DFA_divided("1100"))
-print(DFA_divided("12000"))
-        
