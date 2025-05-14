@@ -1,5 +1,5 @@
 # Automata Practical Exam
-## 1-Section-Number:###Section 1
+## 1-Section-Number:Section 1
 ## 2-Section-Name: DFA - Divisible by 3 and
 ##               : DPA balanced parentheses,a*n b*n
 ## 3-Task being solved: Construct a DFA that accepts binary strings where the number of 1`s is divisible by 3.
