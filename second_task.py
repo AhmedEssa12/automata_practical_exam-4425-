@@ -1,4 +1,4 @@
-# pda_simulator.py
+
 
 def PDA_simulate(string):
     stack = []

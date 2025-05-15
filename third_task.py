@@ -18,9 +18,9 @@ def simulate_turing_machine(input_string):
             elif symbol in ['x', 'y']:
                 head += 1
             elif symbol == '_':
-                return True  # q_accept
+                return True  
             else:
-                return False  # q_reject
+                return False  
 
         elif state == 'q1_0':
             if symbol in ['0', '1', 'X', 'Y', 'x', 'y']:
